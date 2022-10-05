@@ -1,14 +1,14 @@
+#This is a very cool program
+
 while True:
     try:
-        name = input("Please enter a name:")
-        name = str(name)
+        name = str(input("Please enter a name:"))
         break
     except:
         print("Make sure you entered a valid String.")
 while True:
     try:
-        other = input("Please enter some other input:")
-        other = int(other)
+        other = int(input("Please enter some other input:"))
         break
     except:
         print("Make sure you entered an Integer.")
