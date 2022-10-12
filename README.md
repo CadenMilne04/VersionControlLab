@@ -14,6 +14,16 @@ Just download the ***DoSomething.py*** file and run it using the python command.
 
 Follow the prompts, enter correct data types. 
 
+## Why We Chose:
+
+* **MIT LICENCE**- It was the most simple and permissive and our project is not very important to us at this moment.
+
+* **Coraline Ada Ehmke's CoC**-It is the most popular code of conduct and it seemed like the best option for this application.
+
+  
+
+________
+
 ### Credits:
 
 Caden Milne, Cesar Guerra-Solano
