@@ -6,7 +6,7 @@ ________
 
 This project allows a user to input any string, and any number. Then it will print out that string that many times. Written in python 3.7. Troubleshooted using Jupyter. A feature to add could be the ability to save the output to a file on the computer.
 
-![Alt Text](https://i.gyazo.com/21b95c30218b3864749670ff22bc5916.mp4)
+[![Image from Gyazo](https://i.gyazo.com/21b95c30218b3864749670ff22bc5916.gif)](https://gyazo.com/21b95c30218b3864749670ff22bc5916)
 
 ## How to Run:
 
