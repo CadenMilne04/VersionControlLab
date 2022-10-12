@@ -1,6 +1,20 @@
-# VersionControlLab
-CMPINF0010 Lab "Version Control"
+# Version Control Lab
 
-Our program takes in a name and an integer and prints the name an amount of times equal to the integer. The Group Members were: Caden Milne, Cesar Guerra-Solano
+________
 
-Test!
+## Description:
+
+This project allows a user to input any string, and any number. Then it will print out that string that many times. Written in python 3.7. Troubleshooted using Jupyter. A feature to add could be the ability to save the output to a file on the computer.
+
+## How to Run:
+
+Just download the ***DoSomething.py*** file and run it using the python command.
+
+## How to Use:
+
+Follow the prompts, enter correct data types. 
+
+### Credits:
+
+Caden Milne, Cesar Guerra-Solano
+
