@@ -14,7 +14,7 @@ Just download the ***DoSomething.py*** file and run it using the python command.
 
 ## How to Use:
 
-Follow the prompts, enter correct data types. 
+Follow the prompts and enter correct data types. Please note: if you do not enter words when words are asked for, and an integer when an integer is asked for, the program will break and raise an error.
 
 ## Why We Chose:
 
